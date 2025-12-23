@@ -213,5 +213,5 @@ streamlit run streamlit_ui/main.py (In another terminal)
 
 ---
 
-**EduMentor — Empowering Personalized Learning with AI.** 📚🔍
+**EduMentor — Personalized Learning Assistant.** 📚🔍
 
